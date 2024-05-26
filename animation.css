@@ -8,7 +8,7 @@
     }
   }
   
-  /* Apply rotation animation to the image */
+  
   .image-container img {
     animation: rotate 5s linear infinite; /* 5s duration, linear timing, infinite loop */
   }
