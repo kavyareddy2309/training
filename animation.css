@@ -10,6 +10,6 @@
   
   
   .image-container img {
-    animation: rotate 5s linear infinite; /* 5s duration, linear timing, infinite loop */
+    animation: rotate 5s linear infinite; 
   }
   
